@@ -3,9 +3,9 @@ List of tasks to work on for the NGO website and blog
 
 
 /*Blog projects
-
-/--- upload each book with featured image & fb status content 
-/--- Actualizing the Jannah crew page on the blog 
+ 
+/-- uploading the remaining two books on the blog 
+/--- Actualizing the JC page on the blog 
   /-- adding information of JC 
   /-- adding the flyers categories on menu page 
 
